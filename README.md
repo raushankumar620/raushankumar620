@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raushanpandey620&label=Profile%20views&color=0e75b6&style=flat" alt="raushanpandey620" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raushankumar620&label=Profile%20views&color=0e75b6&style=flat" alt="raushankumar620" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://raushanpandey620.github.io/raushanPortfolio/](https://raushanpandey620.github.io/raushanPortfolio/)
+- 👨‍💻 All of my projects are available at [https://raushankumar620.github.io/raushanPortfolio/](https://raushankumar620.github.io/raushanPortfolio/)
 
 - 💬 Ask me about **Python,**
 
