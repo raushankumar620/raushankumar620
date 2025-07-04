@@ -3,7 +3,7 @@
 <p align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=500&lines=🚀+Data+Analyst+%7C+ML+%26+AI+Enthusiast;💻+Python+Developer+%7C+NLP+Explorer;👨‍💻+Love+building+real-world+projects!" alt="Typing animation" />
       </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/raushankumar620/raushankumar620/blob/main/Cool pictural.jpeg">
+<img align="right" alt="Coding" width="400" src="https://github.com/raushankumar620/raushankumar620/blob/main/main2.jpg">
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=raushankumar620&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/raushankumar620)
