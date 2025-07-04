@@ -11,7 +11,11 @@
 - 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
 - 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
 - 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
+- 🎓 **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*  
+- 🤖 Passionate about solving real-world problems with **AI**
 - 📫 How to reach me **raushanpandey845425@gmail.com**
+
+- 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,18 +24,6 @@
 <a href="https://instagram.com/raushan_pandey47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushan_pandey47" height="30" width="40" /></a>
 </p>
 
-
-
-
----
-
-## 🧠 About Me
-
-- 🎓 **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*  
-- 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
-- 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
-- 🤖 Passionate about solving real-world problems with **AI**  
-- 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
 ---
 
 ## 🧪 Projects
