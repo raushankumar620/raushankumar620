@@ -8,10 +8,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=raushankumar620&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/raushankumar620)
 
-- 🎓 **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*  
 - 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
 - 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
-- 🤖 Passionate about solving real-world problems with **AI**  
 - 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
 
 - 📫 How to reach me **raushanpandey845425@gmail.com**
@@ -21,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anshu kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/anshu_singh7485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu_singh7485" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raushankumar620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raushan kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/raushan_pandey47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushan_pandey47" height="30" width="40" /></a>
 </p>
 
 
