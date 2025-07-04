@@ -1,39 +1,32 @@
-<!-- Header Section -->
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/raushankumar620.png" width="150" height="150" style="border-radius: 50%;" alt="Raushan's Profile Picture" />
-    </td>
-    <td width="75%">
-      <h1 align="left">Hi 👋, I'm Raushan Kumar</h1>
-      <p align="left">
+<h3 align="center">Hi 👋, I'm Raushan Kumar </h3>
+<p align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=500&lines=🚀+Data+Analyst+%7C+ML+%26+AI+Enthusiast;💻+Python+Developer+%7C+NLP+Explorer;👨‍💻+Love+building+real-world+projects!" alt="Typing animation" />
       </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/raushankumar620/raushankumar620/blob/main/download.jpeg">
 
-  <p align="left">
-    📍 <strong>Location:</strong> Jaipur, Rajasthan <br>
-    📫 <strong>Email:</strong> <a href="mailto:raushanpandey845425@gmail.com">raushanpandey845425@gmail.com</a>
-  </p>
 
-  <p align="left">
-    <strong>Connect with me:</strong><br>
-    <a href="https://linkedin.com/in/raushan-kumar-853a6628a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/raushankumar620" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://raushankumar620.github.io/raushanPortfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
-    </a>
-    <a href="https://drive.google.com/file/d/1EXk4AZdb1pCrGoj5ce4zc9xe6eg9_UbF/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
-    </a>
-  </p>
-    </td>
-  </tr>
-</table>
+[![Profile Views](https://komarev.com/ghpvc/?username=raushankumar620&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/raushankumar620)
+
+- 🎓 **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*  
+- 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
+- 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
+- 🤖 Passionate about solving real-world problems with **AI**  
+- 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
+
+- 📫 How to reach me **raushanpandey845425@gmail.com**
+
+- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/raushankumar620/)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anshu kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu kumari" height="30" width="40" /></a>
+<a href="https://instagram.com/anshu_singh7485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu_singh7485" height="30" width="40" /></a>
+</p>
+
+
+
 
 ---
 
