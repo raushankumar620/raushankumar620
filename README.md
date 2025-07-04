@@ -11,10 +11,7 @@
 - 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
 - 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
 - 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
-
 - 📫 How to reach me **raushanpandey845425@gmail.com**
-
-- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/raushankumar620/)
 
 
 <h3 align="left">Connect with me:</h3>
