@@ -82,19 +82,12 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <a href="https://github.com/raushankumar620">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Raushan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/raushankumar620">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&hide_border=true&theme=radical" alt="Raushan's GitHub Streak" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&count_private=true&hide_border=true&theme=radical&cache_seconds=86400" alt="Raushan's GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=raushankumar620&hide_border=true&theme=radical" alt="Raushan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/raushankumar620">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-  </a>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
