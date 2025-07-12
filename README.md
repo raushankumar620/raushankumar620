@@ -10,7 +10,7 @@
 
 - 💼 Currently working as a **Data Science Intern** @ *NetParam Technologies*  
 - 🌱 Exploring **NLP**, **Deep Learning**, and **Prompt Engineering**  
-- 💬 Ask me about **Python**, **Machine Learning**, or **Data Analytics**
+- 💬 Ask me about **Python**, **Machine Learning**, or **Full stack devloper**
 - 🎓 **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*  
 - 🤖 Passionate about solving real-world problems with **AI**
 - 📫 How to reach me **raushanpandey845425@gmail.com**
