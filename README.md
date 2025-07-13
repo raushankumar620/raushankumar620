@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm Raushan Kumar </h3>
+<h3 align="center">Hello 👋, I'm Raushan Kumar </h3>
 <p align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=500&lines=🚀+Data+Analyst+%7C+ML+%26+AI+Enthusiast;💻+Python+Developer+%7C+NLP+Explorer;👨‍💻+Love+building+real-world+projects!" alt="Typing animation" />
       </p>
