@@ -40,8 +40,8 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="40" height="40" alt="Portfolio"/>
+  <a href="https://raushan-dev.web.app" target="_blank">
+    <img src="https://github.com/raushankumar620/raushankumar620/blob/main/portfolio.png?raw=true" width="40" height="40" alt="Portfolio"/>
   </a>
 
   <!-- Facebook -->
@@ -54,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
-
 
 
 ## 🧠 Skills & Tools
