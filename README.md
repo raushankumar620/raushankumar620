@@ -12,7 +12,7 @@
 ---
 
 <!-- <img align="right" src="https://github.com/raushankumar620/raushankumar620/blob/main/main3.jpg" alt="coding" width="400" /> -->
- <img align="right" src="[main3.jpg](https://github.com/raushankumar620/raushankumar620/blob/main/main3.jpg?raw=true)" alt="coding" width="400" />
+ <img align="right" src="https://github.com/raushankumar620/raushankumar620/blob/main/main3.jpg?raw=true" alt="coding" width="400" />
 
 ### 👨‍💻 About Me
 
