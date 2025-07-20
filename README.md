@@ -107,10 +107,54 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raushankumar620&theme=react-dark&hide_border=true" alt="Raushan's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar620&theme=react-dark&hide_border=true" alt="Raushan's GitHub Activity Graph" />
 </p>
 
 ---
+### 🚀 My github trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🚀 My Metrics
+
+<p align="center">
+  <img src="https://github-metrics.vercel.app/api?username=raushankumar620&show=stars,commits,prs,issues,contribs&theme=radical" alt="GitHub Metrics"/>
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raushankumar620/raushankumar620/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/raushankumar620?label=Followers&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raushankumar620.raushankumar620" alt="visitors"/>
+</p>
+
+---
+### 🚀 My Pinned Projects
+- 🔥 [Face Recognition Attendance System](https://github.com/raushankumar620/Face-Recognition-Attendance)
+- 🧠 [AI Mental Health Analyzer](https://github.com/raushankumar620/AI-Mental-Health-Analyzer-.git)
+- 📈 [Stock Price Prediction](https://github.com/raushankumar620/Stock-Price-predction-using-time-series-data.git)
+
+
 
 ## ⭐ Keep Supporting!
 If you like my work, consider giving ⭐️ to my repositories and let's connect on [LinkedIn](https://linkedin.com/in/raushankumar620)!
