@@ -15,43 +15,51 @@
 
 <img align="right" src="https://github.com/raushankumar620/raushankumar620/blob/main/main3.jpg?raw=true" alt="coding" width="400" />
 
-### 👨‍💻 About Me
 
-- 💼 Working as a **Data Science Intern** @ *NetParam Technologies*
+### 👨‍💻 About Me
+- 🔭 Currently working as a **Data Science Intern @ NetParam Technologies**
 - 🎓 Pursuing **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*
-- 🌱 Exploring **NLP**, **Deep Learning**, **Prompt Engineering**
-- 💬 Ask me about **Python**, **Machine Learning**, or **Full Stack Development**
-- ✨ Passionate about building real-world projects that make impact
-- 📫 Reach me at: **raushanpandey845425@gmail.com**
+- 🌱 **Exploring:** `NLP`, `Deep Learning`, `Prompt Engineering`
+- 💬 **Ask Me About:** `Python`, `Machine Learning`, `Full Stack Development`
+- 🚀 **Goal:** Build impactful AI projects that solve real-world challenges.
+- 📫 **Reach Me:** [📧 Email Me](mailto:raushanpandey845425@gmail.com)
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/raushankumar620" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/raushan_pandey47" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="40" height="40" alt="Portfolio"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40" alt="Facebook"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/raushankumar620" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
----
+
 
 ## 🧠 Skills & Tools
 
-### 💻 Languages & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql,html,css,js,git,linux,tensorflow,keras,opencv,react" />
 
 ### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -59,23 +67,38 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B4D61?style=for-the-badge)
 
+
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+<img src="https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-E91E63?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Tree-4CAF50?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random%20Forest-795548?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/KNN-9C27B0?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM-3F51B5?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/KMeans-FFC107?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-FF9800?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 ### 🔮 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVZone-00C2CB?style=for-the-badge" />
 
 ### 🔤 NLP & Others
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CVZone](https://img.shields.io/badge/CVZone-00C2CB?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python)
+  <img src="https://img.shields.io/badge/Text%20Classification-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Summarization-3F51B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-FF9800?style=for-the-badge" />
 
 ---
 
-## 🏆 Certifications
 
+## 🏆 Certifications
 <p align="center">
+
   <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning%20IIT%20Madras-0055A4?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT%20IIT%20Kharagpur-FF6F00?style=for-the-badge&logo=internetarchive&logoColor=white" />
