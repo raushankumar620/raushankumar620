@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">🚀 Data Analyst | Python Developer | ML & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F77F00&width=700&center=true&lines=💡+Solving+real-world+problems+with+AI;💻+Love+Python+%7C+ML+%7C+NLP+%7C+Deep+Learning;📊+Building+smart+data-driven+projects" alt="Typing SVG" />
@@ -59,13 +58,6 @@
 ## 🧠 Skills & Tools
 
 <img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql,html,css,js,git,linux,tensorflow,opencv,react" />
-
-### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B4D61?style=for-the-badge)
-
 
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
