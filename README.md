@@ -38,16 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Algorithms |
-|--------|-------------|------------|------------|
-| [**Face Recognition Attendance System**](https://github.com/raushankumar620) | Real-time facial recognition attendance system with emotion detection & SMTP alerts | Python, Flask, OpenCV, JS, SQL | CNN |
-| [**AI Mental Health Analyzer**](https://github.com/raushankumar620/AI-Mental-Health-Analyzer-.git) | Sentiment analyzer + mental health chatbot using NLP | Python, NLTK, Scikit-learn | Sentiment Analysis |
-| [**Stock Price Prediction**](https://github.com/raushankumar620/Stock-Price-predction-using-time-series-data.git) | Predict stock prices using time-series models | Python, TensorFlow, Keras | ARIMA, LSTM |
-
----
-
 ## 🧠 Skills & Tools
 
 ### 💻 Languages & Technologies  
@@ -116,22 +106,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 🚀 My Metrics
-
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=raushankumar620&show=stars,commits,prs,issues,contribs&theme=radical" alt="GitHub Metrics"/>
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
 </p>
 
 ---
