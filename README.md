@@ -58,7 +58,7 @@
 
 ## 🧠 Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql,html,css,js,git,linux,tensorflow,keras,opencv,react" />
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql,html,css,js,git,linux,tensorflow,opencv,react" />
 
 ### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -84,9 +84,9 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/CVZone-00C2CB?style=for-the-badge" />
 
+
+
 ### 🔤 NLP & Others
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CVZone](https://img.shields.io/badge/CVZone-00C2CB?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python)
   <img src="https://img.shields.io/badge/Text%20Classification-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Text%20Summarization-3F51B5?style=for-the-badge" />
