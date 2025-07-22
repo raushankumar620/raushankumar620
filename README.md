@@ -99,11 +99,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&theme=tokyonight)
 
 ---
 
@@ -140,3 +140,4 @@
 
 ## ⭐ Keep Supporting!
 If you like my work, consider giving ⭐️ to my repositories and let's connect on [LinkedIn](https://linkedin.com/in/raushankumar620)!
+
