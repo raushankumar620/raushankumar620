@@ -40,7 +40,7 @@
 
   <!-- Portfolio -->
   <a href="https://raushan-dev.web.app" target="_blank">
-    <img src="https://github.com/raushankumar620/raushankumar620/blob/main/Developer.png?raw=true" width="40" height="40" alt="Portfolio"/>
+    <img src="https://github.com/raushankumar620/raushankumar620/blob/main/port.png?raw=true" width="40" height="40" alt="Portfolio"/>
   </a>
 
   <!-- Facebook -->
