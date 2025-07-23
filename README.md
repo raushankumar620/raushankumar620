@@ -58,8 +58,6 @@
 ## 🧠 Skills & Tools
 
 <img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql,html,css,js,git,linux,tensorflow,opencv,react" />
-
-### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 <img src="https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Logistic%20Regression-E91E63?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -69,16 +67,10 @@
   <img src="https://img.shields.io/badge/SVM-3F51B5?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/KMeans-FFC107?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Naive%20Bayes-FF9800?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-### 🔮 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/CVZone-00C2CB?style=for-the-badge" />
-
-
-
-### 🔤 NLP & Others
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python)
   <img src="https://img.shields.io/badge/Text%20Classification-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Text%20Summarization-3F51B5?style=for-the-badge" />
@@ -100,10 +92,15 @@
 ## 📊 GitHub Stats
 
 ![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=raushankumar620&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=raushankumar620&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -117,7 +114,6 @@
 
 ### 🚀 My GitHub Trophies
 
-
 <!-- GitHub Trophies temporarily unavailable -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical" alt="GitHub Trophies" />
@@ -125,13 +121,21 @@
 
 ---
 
-
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raushankumar620/raushankumar620/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-## ⭐ Keep Supporting!
-If you like my work, consider giving ⭐️ to my repositories and let's connect on [LinkedIn](https://linkedin.com/in/raushankumar620)!
+---
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 
