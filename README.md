@@ -122,22 +122,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical" alt="GitHub Trophies" />
 </p> 
+
 ---
+
 
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raushankumar620/raushankumar620/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
-
----
-
-### 🚀 My Pinned Projects
-- 🔥 [Face Recognition Attendance System](https://github.com/raushankumar620/Face-Recognition-Attendance)
-- 🧠 [AI Mental Health Analyzer](https://github.com/raushankumar620/AI-Mental-Health-Analyzer-.git)
-- 📈 [Stock Price Prediction](https://github.com/raushankumar620/Stock-Price-predction-using-time-series-data.git)
-
----
 
 ## ⭐ Keep Supporting!
 If you like my work, consider giving ⭐️ to my repositories and let's connect on [LinkedIn](https://linkedin.com/in/raushankumar620)!
