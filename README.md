@@ -119,14 +119,9 @@
 
 
 <!-- GitHub Trophies temporarily unavailable -->
-<!-- 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raushankumar620&theme=radical" alt="GitHub Trophies" />
 </p> 
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?raushan620=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🐍 Contribution Snake Animation
