@@ -109,9 +109,9 @@
 
 ## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar620&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankumar620&theme=react-dark&area=true&hide_border=true" width="98%"/>
+</div>
 
 ---
 
