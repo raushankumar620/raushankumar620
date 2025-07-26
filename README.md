@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Raushan Kumar</h1>
+<h1 align="center">Hii👋, I'm Raushan Kumar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F77F00&width=700&center=true&lines=💡+Solving+real-world+problems+with+AI;💻+Love+Python+%7C+ML+%7C+NLP+%7C+Deep+Learning;📊+Building+smart+data-driven+projects" alt="Typing SVG" />
