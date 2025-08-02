@@ -13,7 +13,7 @@
 ---
 
 
-<img align="right" src="https://github.com/raushankumar620/raushankumar620/blob/main/main3.jpg?raw=true" alt="coding" width="400" />
+<img align="right" src="https://github.com/raushankumar620/raushankumar620/blob/main/main4.png?raw=true" alt="coding" width="400" />
 
 
 ### 👨‍💻 About Me
