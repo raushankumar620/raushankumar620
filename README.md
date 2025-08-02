@@ -17,7 +17,7 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as a **Data Science Intern @ NetParam Technologies**
+- 🔭 Currently working as a **Data Science Intern NetParam Technologies**
 - 🎓 Pursuing **B.Tech in CSE with AI-ML** from *Suresh Gyan Vihar University*
 - 🌱 **Exploring:** `NLP`, `Deep Learning`, `Prompt Engineering`
 - 💬 **Ask Me About:** `Python`, `Machine Learning`, `Full Stack Development`
