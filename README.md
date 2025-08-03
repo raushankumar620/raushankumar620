@@ -97,26 +97,33 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- 📊 Stylish GitHub Stats Section with Rounded Corners -->
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&theme=tokyonight" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&theme=tokyonight" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=tokyonight" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=raushankumar620&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.4); color: white; font-family: 'Segoe UI', sans-serif;">
+
+  <h2 style="font-size: 2em; background: linear-gradient(to right, #f7971e, #ffd200, #86fde8, #acb6e5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px;">📊 GitHub Stats & Contributions</h2>
+
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=raushankumar620&show_icons=true&theme=tokyonight&border_radius=20" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #0ff;" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankumar620&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #ff0;" />
+      </td>
+    </tr>
+    <tr style="height: 40px;"></tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankumar620&layout=compact&theme=tokyonight" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #f0f;" />
+      </td>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=raushankumar620&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #0ff;" />
+      </td>
+    </tr>
+ 
+  </table>
+</div>
 
 ---
 
